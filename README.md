@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="1584" height="396" alt="LinkedIn Banner1" src="https://github.com/user-attachments/assets/988f15fe-9424-42a1-9437-ed080392a63e" />
-</p>
+
 
 <h2 align="center">📬 Get in touch</h2>
 
