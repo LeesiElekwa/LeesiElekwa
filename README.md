@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 Meet Leesi
-Leesi is a Data & AI professional (MSc, Distinction) focused on data engineering, data science and business intelligence. I create trusted data flows, scalable models and insight-rich dashboards that drive decisions. Currently a **Data Analyst** at **Global Bee Project**, ensuring the integrity and validation of IoT sensor data that powers clients' dashboard.
+Leesi is a Data & AI professional (MSc, Distinction) focused, data science and business intelligence. I create trusted data flows, scalable models and insight-rich dashboards that drive decisions. Currently a **Data Analyst** at **Global Bee Project**, ensuring the integrity and validation of IoT sensor data that powers clients' dashboard.
 
 
 ## 💻 What I Do
